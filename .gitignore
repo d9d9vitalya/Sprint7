@@ -30,11 +30,11 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-/!**/target/
-/!**/allure/
 
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
+allure/
